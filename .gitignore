@@ -1,2 +1,5 @@
 # Project exclude paths
 /out/
+.idea/modules.xml
+.idea/libraries
+.idea/discord.xml
